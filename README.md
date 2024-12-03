@@ -1,2 +1,2 @@
 # Tweet link sharer
-Userscript to copy tweet links
+Userscript to generate links to share a tweet from Twitter
